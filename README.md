@@ -43,19 +43,19 @@ Projeto desenvolvido para aprender sobre a criação de APIs RESTful utilizando 
 
 ## Instalação
 1. Clonar o repositório:
-    git clone https://github.com/DevJoaoLucas/API-Laravel.git
-    cd API-Laravel
+    `git clone https://github.com/DevJoaoLucas/API-Laravel.git`
+    `cd API-Laravel`
 
 2. Instalar Dependências
-    composer install
+    `composer install`
 
 3. Configurar o ambiente
-   .env.example para .env e configure as credenciais do seu banco
+  `cp .env.example .env`
 
 4. Gere a chave do app
-    php artisan key:generate
+    `php artisan key:generate`
 
 5.Executar Migrações
-    php artisan migrate
+    `php artisan migrate`
 6. Iniciar o Servidor local:
-    php artisan serve
+    `php artisan serve`
