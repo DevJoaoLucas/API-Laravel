@@ -4,7 +4,7 @@
 
 - **Laravel**: framework de PHP para desenvolvimento de aplicações web.
 - **Postman**: Ferramenta para teste de APIs.
-- **MySQL**: Sistema de gerenciamento de banco de dados utilizado para armazenar dados da aplicação.
+- **MySQL**: Banco de dados utilizado para armazenar dados desta aplicação.
 
 ## Descrição
 
@@ -57,5 +57,6 @@ Projeto desenvolvido para aprender sobre a criação de APIs RESTful utilizando 
 
 5.Executar Migrações
     `php artisan migrate`
+
 6. Iniciar o Servidor local:
     `php artisan serve`
