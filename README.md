@@ -50,7 +50,7 @@ Projeto desenvolvido para aprender sobre a criação de APIs RESTful utilizando 
     composer install
 
 3. Configurar o ambiente
-   Copie .env.example para .env e configure as credenciais do seu banco
+   .env.example para .env e configure as credenciais do seu banco
 
 4. Gere a chave do app
     php artisan key:generate
